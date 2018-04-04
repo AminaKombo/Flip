@@ -1,2 +1,2 @@
 # Flip
-Simulated coin toss. Native application.
+Simulated coin toss. Native application in C#.
